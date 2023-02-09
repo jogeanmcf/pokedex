@@ -1,0 +1,13 @@
+:root {
+
+}
+
+.myStyle{
+  background: #c2c2c2;
+  min-height: 100vh;
+}
+
+.disabledCard {
+  pointer-events: none;
+  opacity: 0.4;
+}
